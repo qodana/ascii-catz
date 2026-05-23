@@ -1,0 +1,51 @@
+{
+    "version": "0.1",
+    "id": "80c84e38-efcc-45ad-96d3-621e0a6f5a1e",
+    "timestamp": "2026-05-23T21:04:10.989338Z",
+    "vcs": {
+        "type": "git",
+        "revision": "380a4413324c085845012c709e8deee70f1f362a"
+    },
+    "tool": {
+        "name": "chatter",
+        "version": "0.1"
+    },
+    "files": [
+        {
+            "path": "docs/superpowers/specs/2026-05-23-party-lion-design.md",
+            "conversations": [
+                {
+                    "url": "CLAUDE_CODE:db0a0c32-0f7b-40b7-8fc9-a79e40aeffa0",
+                    "contributor": {
+                        "type": "ai",
+                        "model_id": "claude-opus-4-6"
+                    },
+                    "ranges": [
+                        {
+                            "start_line": 1,
+                            "end_line": 17
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "party.txt",
+            "conversations": [
+                {
+                    "url": "CLAUDE_CODE:db0a0c32-0f7b-40b7-8fc9-a79e40aeffa0",
+                    "contributor": {
+                        "type": "ai",
+                        "model_id": "claude-opus-4-6"
+                    },
+                    "ranges": [
+                        {
+                            "start_line": 74,
+                            "end_line": 98
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
