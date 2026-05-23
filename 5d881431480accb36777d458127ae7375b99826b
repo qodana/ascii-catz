@@ -1,0 +1,51 @@
+{
+    "version": "0.1",
+    "id": "6f399e95-6d42-4276-b3e1-8a9b53c05de3",
+    "timestamp": "2026-05-23T20:46:11.815249Z",
+    "vcs": {
+        "type": "git",
+        "revision": "5d881431480accb36777d458127ae7375b99826b"
+    },
+    "tool": {
+        "name": "chatter",
+        "version": "0.1"
+    },
+    "files": [
+        {
+            "path": "docs/superpowers/specs/2026-05-23-party-frog-design.md",
+            "conversations": [
+                {
+                    "url": "CODEX_CLI:019e5686-3b79-7182-ba98-509fc5b475c4",
+                    "contributor": {
+                        "type": "ai",
+                        "model_id": "gpt-5.4"
+                    },
+                    "ranges": [
+                        {
+                            "start_line": 1,
+                            "end_line": 12
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "party.txt",
+            "conversations": [
+                {
+                    "url": "CODEX_CLI:019e5686-3b79-7182-ba98-509fc5b475c4",
+                    "contributor": {
+                        "type": "ai",
+                        "model_id": "gpt-5.4"
+                    },
+                    "ranges": [
+                        {
+                            "start_line": 26,
+                            "end_line": 29
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
