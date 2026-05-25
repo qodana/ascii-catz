@@ -1,0 +1,33 @@
+{
+    "version": "0.1",
+    "id": "846f1b3b-1cc6-4d7d-afce-43d549af4eae",
+    "timestamp": "2026-05-25T14:21:14.702592Z",
+    "vcs": {
+        "type": "git",
+        "revision": "c78bdbee43ca50ab91dcc1df191494bd792402e4"
+    },
+    "tool": {
+        "name": "chatter",
+        "version": "0.1"
+    },
+    "files": [
+        {
+            "path": "party.txt",
+            "conversations": [
+                {
+                    "url": "CLAUDE_CODE:890d2f72-4daf-4646-8ead-4be8f834c288",
+                    "contributor": {
+                        "type": "ai",
+                        "model_id": "claude-opus-4-7"
+                    },
+                    "ranges": [
+                        {
+                            "start_line": 44,
+                            "end_line": 64
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
